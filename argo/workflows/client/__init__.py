@@ -154,10 +154,10 @@ from argo.workflows.client.models.v1alpha1_counter import V1alpha1Counter
 from argo.workflows.client.models.v1alpha1_create_cron_workflow_request import V1alpha1CreateCronWorkflowRequest
 from argo.workflows.client.models.v1alpha1_cron_workflow import V1alpha1CronWorkflow
 from argo.workflows.client.models.v1alpha1_cron_workflow_list import V1alpha1CronWorkflowList
-from argo.workflows.client.models.v1alpha1_cron_workflow_resume_request import V1alpha1CronWorkflowResumeRequest
+# from argo.workflows.client.models.v1alpha1_cron_workflow_resume_request import V1alpha1CronWorkflowResumeRequest
 from argo.workflows.client.models.v1alpha1_cron_workflow_spec import V1alpha1CronWorkflowSpec
 from argo.workflows.client.models.v1alpha1_cron_workflow_status import V1alpha1CronWorkflowStatus
-from argo.workflows.client.models.v1alpha1_cron_workflow_suspend_request import V1alpha1CronWorkflowSuspendRequest
+# from argo.workflows.client.models.v1alpha1_cron_workflow_suspend_request import V1alpha1CronWorkflowSuspendRequest
 from argo.workflows.client.models.v1alpha1_dag_task import V1alpha1DAGTask
 from argo.workflows.client.models.v1alpha1_dag_template import V1alpha1DAGTemplate
 from argo.workflows.client.models.v1alpha1_event import V1alpha1Event
@@ -168,7 +168,7 @@ from argo.workflows.client.models.v1alpha1_get_user_info_response import V1alpha
 from argo.workflows.client.models.v1alpha1_git_artifact import V1alpha1GitArtifact
 from argo.workflows.client.models.v1alpha1_hdfs_artifact import V1alpha1HDFSArtifact
 from argo.workflows.client.models.v1alpha1_http_artifact import V1alpha1HTTPArtifact
-from argo.workflows.client.models.v1alpha1_header import V1alpha1Header
+# from argo.workflows.client.models.v1alpha1_header import V1alpha1Header
 from argo.workflows.client.models.v1alpha1_histogram import V1alpha1Histogram
 from argo.workflows.client.models.v1alpha1_info_response import V1alpha1InfoResponse
 from argo.workflows.client.models.v1alpha1_inputs import V1alpha1Inputs
@@ -212,7 +212,7 @@ from argo.workflows.client.models.v1alpha1_update_cron_workflow_request import V
 from argo.workflows.client.models.v1alpha1_user_container import V1alpha1UserContainer
 from argo.workflows.client.models.v1alpha1_value_from import V1alpha1ValueFrom
 from argo.workflows.client.models.v1alpha1_version import V1alpha1Version
-from argo.workflows.client.models.v1alpha1_volume_claim_gc import V1alpha1VolumeClaimGC
+# from argo.workflows.client.models.v1alpha1_volume_claim_gc import V1alpha1VolumeClaimGC
 from argo.workflows.client.models.v1alpha1_workflow import V1alpha1Workflow
 from argo.workflows.client.models.v1alpha1_workflow_create_request import V1alpha1WorkflowCreateRequest
 from argo.workflows.client.models.v1alpha1_workflow_event_binding import V1alpha1WorkflowEventBinding
